@@ -1,0 +1,26 @@
+{
+	"cartList":[
+		{
+			"id":"01",
+			"name":"法国原瓶进口红酒 拉菲传奇 波尔多干红葡萄酒双支礼盒装",
+			"img":"static/allImg/wine_05.jpg",
+			"des":"",
+			"sale":"6666",
+			"price":666,
+			"mail":"包邮",
+			"count":"1",
+			"checked":false
+		},
+		{
+			"id":"02",
+			"name":"苏泊尔道具套装 厨房全套刀具家用厨房刀具菜刀出具套装组合",
+			"img":"static/goodThingImg/gt_05.png",
+			"des":"",
+			"sale":"2333",
+			"price":233,
+			"mail":"包邮",
+			"count":"1",
+			"checked":false
+		}
+	]
+}
